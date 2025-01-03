@@ -11,9 +11,12 @@ class PH_Employee {
     return `${name} is  ${this.age} years old `;
   }
 }
-
 const JhankarBhai = new PH_Employee("Jhankar", 21, "CEO");
 const RakibBhai = new PH_Employee("Rakib", 18, "COO");
 
 console.log(JhankarBhai.role) ;
+
+
+
+
 
